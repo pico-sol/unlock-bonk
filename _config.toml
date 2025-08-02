@@ -1,0 +1,16 @@
+rpc_url = "https://mainnet.helius-rpc.com/?api-key=******"
+forward_dest_pubkey = ""
+fee_payer_pubkey = ""
+fee_payer_secret = ""
+
+[[targets]]
+owner_pubkey = ""
+owner_secret = ""
+stake_receipt_pubkey = ""
+amount = 1
+
+[[targets]]
+owner_pubkey = ""
+owner_secret = ""
+stake_receipt_pubkey = ""
+amount = 1
